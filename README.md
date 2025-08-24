@@ -1,7 +1,7 @@
 <!-- README.md (HTML format) -->
 
 <h1>📌 Project Name</h1>
-<h2>"Predicting Flight Booking Completion using Machine Learning"</h2>
+<h2>"Predicting Customer Flight Booking Behavious in British Airways"</h2>
 
 <h2>📖 Project Description</h2>
 <p>
